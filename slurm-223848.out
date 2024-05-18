@@ -1,0 +1,154 @@
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.
+Files already downloaded and verified
+Files already downloaded and verified
+avg acc: 0.100000
+[E: 0] loss: 2.304944, avg_loss: 2.735990
+[E: 0] training acc: 0.099560
+avg acc: 0.100000
+[E: 1] loss: 2.291461, avg_loss: 2.304105
+[E: 1] training acc: 0.097480
+avg acc: 0.100000
+[E: 2] loss: 2.290147, avg_loss: 2.303946
+[E: 2] training acc: 0.098780
+avg acc: 0.100000
+[E: 3] loss: 2.300278, avg_loss: 2.303709
+[E: 3] training acc: 0.099420
+avg acc: 0.100000
+[E: 4] loss: 2.310212, avg_loss: 2.304050
+[E: 4] training acc: 0.100020
+avg acc: 0.100000
+[E: 5] loss: 2.317674, avg_loss: 2.303957
+[E: 5] training acc: 0.097960
+avg acc: 0.100000
+[E: 6] loss: 2.309004, avg_loss: 2.303916
+[E: 6] training acc: 0.099060
+avg acc: 0.100000
+[E: 7] loss: 2.305555, avg_loss: 2.304097
+[E: 7] training acc: 0.097720
+avg acc: 0.100000
+[E: 8] loss: 2.311725, avg_loss: 2.304013
+[E: 8] training acc: 0.097260
+avg acc: 0.100000
+[E: 9] loss: 2.307398, avg_loss: 2.304000
+[E: 9] training acc: 0.100960
+avg acc: 0.100000
+[E: 10] loss: 2.304977, avg_loss: 2.303882
+[E: 10] training acc: 0.101760
+avg acc: 0.100000
+[E: 11] loss: 2.326884, avg_loss: 2.304038
+[E: 11] training acc: 0.098300
+avg acc: 0.100000
+[E: 12] loss: 2.290503, avg_loss: 2.303977
+[E: 12] training acc: 0.101100
+avg acc: 0.100000
+[E: 13] loss: 2.317473, avg_loss: 2.303971
+[E: 13] training acc: 0.098020
+avg acc: 0.100000
+[E: 14] loss: 2.286269, avg_loss: 2.303952
+[E: 14] training acc: 0.099900
+avg acc: 0.100000
+[E: 15] loss: 2.301984, avg_loss: 2.302999
+[E: 15] training acc: 0.099960
+avg acc: 0.100000
+[E: 16] loss: 2.305096, avg_loss: 2.302783
+[E: 16] training acc: 0.098680
+avg acc: 0.100000
+[E: 17] loss: 2.302825, avg_loss: 2.302807
+[E: 17] training acc: 0.097140
+avg acc: 0.100000
+[E: 18] loss: 2.302050, avg_loss: 2.302729
+[E: 18] training acc: 0.098980
+avg acc: 0.100000
+[E: 19] loss: 2.303783, avg_loss: 2.302799
+[E: 19] training acc: 0.098840
+avg acc: 0.100000
+[E: 20] loss: 2.303733, avg_loss: 2.302762
+[E: 20] training acc: 0.098920
+avg acc: 0.100000
+[E: 21] loss: 2.301048, avg_loss: 2.302781
+[E: 21] training acc: 0.096780
+avg acc: 0.100000
+[E: 22] loss: 2.300946, avg_loss: 2.302758
+[E: 22] training acc: 0.097460
+avg acc: 0.100000
+[E: 23] loss: 2.299048, avg_loss: 2.302786
+[E: 23] training acc: 0.099080
+avg acc: 0.100000
+[E: 24] loss: 2.302758, avg_loss: 2.302770
+[E: 24] training acc: 0.098220
+avg acc: 0.100000
+[E: 25] loss: 2.302634, avg_loss: 2.302768
+[E: 25] training acc: 0.100260
+avg acc: 0.100000
+[E: 26] loss: 2.303984, avg_loss: 2.302756
+[E: 26] training acc: 0.098300
+avg acc: 0.100000
+[E: 27] loss: 2.299488, avg_loss: 2.302740
+[E: 27] training acc: 0.099500
+avg acc: 0.100000
+[E: 28] loss: 2.309602, avg_loss: 2.302787
+[E: 28] training acc: 0.099820
+avg acc: 0.100000
+[E: 29] loss: 2.298596, avg_loss: 2.302773
+[E: 29] training acc: 0.099060
+avg acc: 0.100000
+[E: 30] loss: 2.300395, avg_loss: 2.302658
+[E: 30] training acc: 0.099260
+avg acc: 0.100000
+[E: 31] loss: 2.302141, avg_loss: 2.302640
+[E: 31] training acc: 0.100000
+avg acc: 0.100000
+[E: 32] loss: 2.302438, avg_loss: 2.302624
+[E: 32] training acc: 0.099220
+avg acc: 0.100000
+[E: 33] loss: 2.302291, avg_loss: 2.302620
+[E: 33] training acc: 0.098140
+avg acc: 0.100000
+[E: 34] loss: 2.301439, avg_loss: 2.302617
+[E: 34] training acc: 0.099600
+avg acc: 0.100000
+[E: 35] loss: 2.302441, avg_loss: 2.302612
+[E: 35] training acc: 0.096740
+avg acc: 0.100000
+[E: 36] loss: 2.302787, avg_loss: 2.302610
+[E: 36] training acc: 0.097080
+avg acc: 0.100000
+[E: 37] loss: 2.302643, avg_loss: 2.302612
+[E: 37] training acc: 0.097520
+avg acc: 0.100000
+[E: 38] loss: 2.302759, avg_loss: 2.302610
+[E: 38] training acc: 0.097500
+avg acc: 0.100000
+[E: 39] loss: 2.303107, avg_loss: 2.302612
+[E: 39] training acc: 0.096460
+avg acc: 0.100000
+[E: 40] loss: 2.302680, avg_loss: 2.302607
+[E: 40] training acc: 0.096260
+avg acc: 0.100000
+[E: 41] loss: 2.302273, avg_loss: 2.302589
+[E: 41] training acc: 0.099500
+avg acc: 0.100000
+[E: 42] loss: 2.302588, avg_loss: 2.302589
+[E: 42] training acc: 0.099180
+avg acc: 0.100000
+[E: 43] loss: 2.302686, avg_loss: 2.302587
+[E: 43] training acc: 0.098860
+avg acc: 0.100000
+[E: 44] loss: 2.302520, avg_loss: 2.302588
+[E: 44] training acc: 0.097260
+avg acc: 0.100000
+[E: 45] loss: 2.302725, avg_loss: 2.302586
+[E: 45] training acc: 0.099720
+avg acc: 0.100000
+[E: 46] loss: 2.302777, avg_loss: 2.302585
+[E: 46] training acc: 0.098960
+avg acc: 0.100000
+[E: 47] loss: 2.302597, avg_loss: 2.302586
+[E: 47] training acc: 0.098600
+avg acc: 0.100000
+[E: 48] loss: 2.302534, avg_loss: 2.302584
+[E: 48] training acc: 0.098240
+avg acc: 0.100000
+[E: 49] loss: 2.302506, avg_loss: 2.302584
+[E: 49] training acc: 0.097000
+
